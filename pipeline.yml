@@ -16,7 +16,7 @@ metadata:
 spec:
   source:
     git:
-      uri: "https://github.com/redhat-developer-demos/12factor-app"
+      uri: "https://github.com/divatest/12factor-app"
   strategy:
     jenkinsPipelineStrategy:
       jenkinsfilePath: "Jenkinsfile"
